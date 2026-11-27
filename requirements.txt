@@ -16,7 +16,7 @@ mcp[cli]
 mistralai~=0.4.2
 openai
 openlit
-pillow==12.2.0
+pillow==13.0.0
 python-dotenv~=1.0.1
 pandas
 semantic-kernel>=1.35.3
